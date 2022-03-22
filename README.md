@@ -1,2 +1,3 @@
-<center> # Certificado </center> /br
+# Certificado </center>
+
 Meu certificado do curso de Git/GitHub
