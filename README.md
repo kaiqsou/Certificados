@@ -8,10 +8,11 @@ Git/Github
 
 Lógica de Programação
 
-![4CF1D42A](https://user-images.githubusercontent.com/99449012/163691433-33f5212d-6b1d-4d40-bdab-52aef5af2b94.jpg)
+![image](https://user-images.githubusercontent.com/99449012/163691495-e87bdca0-6161-425c-bbd1-39d6aea65acf.png)
 
 CSS3 e HTML5 (Introdução)
 
-![image](https://user-images.githubusercontent.com/99449012/163691461-ad282b03-2e4e-4f5c-99a4-5bac56db4b4a.png)
+![image](https://user-images.githubusercontent.com/99449012/163691508-bc90b95f-76a6-4494-9431-f8c5afe42c5b.png)
+
 
 
