@@ -25,6 +25,11 @@ Tentarei sempre manter atualizado aqui a respeito dos meus certificados. Cheque 
 
 ![Certificado_logica_prog](https://github.com/user-attachments/assets/75a3cf62-fbae-4ad5-abaf-bd6ad88a3ac3)
 
+**Curso de Banco de Dados da Trilha Back-End da FDevs** - FDevs <br>
+
+<img width="2000" height="1414" alt="image" src="https://github.com/user-attachments/assets/6b5f8531-be03-4c1e-921b-ad3259994633" />
+
+
 
 
 
